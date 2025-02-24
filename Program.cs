@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-using L4_0;
+namespace L4_0;
 
 class Program
 {
