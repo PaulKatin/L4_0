@@ -9,6 +9,8 @@ class Program
     {
 
         TextMenu textMenu = new TextMenu();
+
+        textMenu.DisplayTextMenu();
         Console.ReadLine();
 
     }
